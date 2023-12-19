@@ -1,5 +1,7 @@
 # Hardhat NFT Marketplace 
+This is a Solidity smart contract for an NFT Marketplace. It allows users to list, buy, and sell NFTs on the Ethereum blockchain.
 
+The contract uses the ERC721 standard for NFTs and the OpenZeppelin library for security features.
 # Getting Started
 
 ## Requirements
